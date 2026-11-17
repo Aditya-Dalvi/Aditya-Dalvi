@@ -24,20 +24,20 @@ I spend my time exploring the intersection of **cybersecurity, cloud infrastruct
 Think of this GitHub as my little corner of the digital universe — where security meets curiosity, code meets creativity, and a few cats supervise everything. 🐈‍⬛
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│             ADITYA'S DIGITAL UNIVERSE                 │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  [IDENTITY]      Cybersecurity Analyst               │
-│  [MISSION]       Make the digital world safer        │
-│  [INTERESTS]     AppSec | VAPT | SOC | Cloud          │
-│  [EXPLORING]     Security Automation & Threats        │
-│  [SIDE QUEST]    Space, cats & endless curiosity      │
-│                                                      │
-│  SYSTEM STATUS: ONLINE                               │
-│  THREAT LEVEL:  Always Investigating                  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│                      ADITYA'S DIGITAL UNIVERSE                         │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│  [IDENTITY]      Mr. Cybersecurity                                     │
+│  [MISSION]       Make the digital world safer                          │
+│  [INTERESTS]     AppSec | VAPT | SOC | Make and Break Security         │
+│  [EXPLORING]     Security Automation & Threats                         │
+│  [SIDE QUEST]    Explore Space, pet cats & endless curiosity           │
+│                                                                        │
+│  SYSTEM STATUS: ONLINE                                                 │
+│  THREAT LEVEL:  Always Investigating                                   │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## 🛡️ My Cybersecurity Universe
